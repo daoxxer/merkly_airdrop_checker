@@ -1,0 +1,1 @@
+# merkly_airdrop_checker
